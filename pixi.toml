@@ -83,6 +83,7 @@ polars = ">=1.31.0, <2"
 watermark = ">=2.5.0, <3"
 xarray-datatree = ">=0.0.14, <0.0.15"
 xarray-einstats = ">=0.9.1, <0.10"
+fastexcel = ">=0.14.0, <0.15"
 
 [tool.marimo.formatting]
 line_length = 88
