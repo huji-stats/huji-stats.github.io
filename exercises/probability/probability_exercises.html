@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Polars and split-apply-combine – HUJI Statistical Inference Summer School 2025</title>
+<title>Probability exercises – HUJI Statistical Inference Summer School 2025</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
-<link href="../../lessons/polars/intro_to_polars.html" rel="next">
-<link href="../../lessons/python_basics/intro_to_numpy_and_scipy.html" rel="prev">
+<link href="../../exercises/probability/distribution_stories.html" rel="next">
+<link href="../../exercises/plotting/cool_gal4.html" rel="prev">
 <link href="../../logo.png" rel="icon" type="image/png">
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../lessons/polars/polars.html">Polars and split-apply-combine</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../exercises/probability/probability_exercises.html">Probability exercises</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -207,13 +207,13 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../lessons/polars/polars.html" class="sidebar-item-text sidebar-link active">
+            <a href="../../lessons/polars/polars.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Polars and split-apply-combine</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../lessons/polars/intro_to_polars.html" class="sidebar-item-text sidebar-link">
@@ -579,13 +579,13 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="../../exercises/probability/probability_exercises.html" class="sidebar-item-text sidebar-link">
+            <a href="../../exercises/probability/probability_exercises.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Probability exercises</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-15" role="navigation" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-15" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-15" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-15" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../../exercises/probability/distribution_stories.html" class="sidebar-item-text sidebar-link">
@@ -631,7 +631,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span id="sec-polars" class="quarto-section-identifier">Polars and split-apply-combine</span></h1>
+<h1 class="title">Probability exercises</h1>
 </div>
 
 
@@ -648,9 +648,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Throughout your research career, you will undoubtedly need to handle data, possibly lots of data. Once in a usable form, you are empowered to make graphics, perform statistical inference, and use your data in AI applications. <strong>Tidy data</strong> is an important format which we will define and work with in this lesson.</p>
-<p>In an ideal world, data sets would be stored in tidy format and be ready to use. But for practical considerations (and sadly also due to experimenter and instrument manufacturer thoughtlessness) data comes in lots of formats, and you may have to spend much of your time wrangling the data to get it into a usable format. The process of getting data into useful formats is called <strong>wrangling</strong>. We will not dive into that topic, but will assume data is in tidy, or at least easily useable, format.</p>
-<p>In this lesson, we will use <a href="https://pola.rs/">Polars</a> to manipulate tidy data sets.</p>
+<p>You probably want to do some probability exercises.</p>
 
 
 
@@ -1056,13 +1054,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../../lessons/python_basics/intro_to_numpy_and_scipy.html" class="pagination-link" aria-label="Introduction to Numpy and Scipy">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Introduction to Numpy and Scipy</span></span>
+      <a href="../../exercises/plotting/cool_gal4.html" class="pagination-link" aria-label="EDA for a temperature controlled Gal4-UAS system">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">52</span>&nbsp; <span class="chapter-title">EDA for a temperature controlled Gal4-UAS system</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../../lessons/polars/intro_to_polars.html" class="pagination-link" aria-label="Introduction to data frames and Polars">
-        <span class="nav-page-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Introduction to data frames and Polars</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../../exercises/probability/distribution_stories.html" class="pagination-link" aria-label="Distribution stories">
+        <span class="nav-page-text"><span class="chapter-number">53</span>&nbsp; <span class="chapter-title">Distribution stories</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
