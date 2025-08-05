@@ -1200,12 +1200,12 @@ pre > code.sourceCode > span > a:first-child::before { text-decoration: underlin
 <tr class="odd">
 <td>Group by and apply custom func to col²</td>
 <td><code>df.groupby('c1')['q1'].apply(my_fun)</code></td>
-<td><code>df.group_by('c1').agg(pl.col('q1').map_elements(my_fun, return_dtype=float))</code></td>
+<td><code>df.group_by('c1').agg(pl.col('q1').map_batches(my_fun, return_dtype=float, returns_scalar=True))</code></td>
 </tr>
 <tr class="even">
 <td>Group by and apply custom func to 2 cols³</td>
 <td><code>df.groupby('c1')[['q1', 'q2']].apply(my_fun)</code></td>
-<td><code>df.group_by('c1').agg(pl.struct(['q1', 'q2']).map_elements(my_fun, return_dtype=float))</code></td>
+<td><code>df.group_by('c1').agg(pl.struct(['q1', 'q2']).map_batches(my_fun, return_dtype=float, returns_scalar=True))</code></td>
 </tr>
 <tr class="odd">
 <td>Group by and rank within each group</td>
