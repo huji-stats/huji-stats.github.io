@@ -2,398 +2,398 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://huji-stats.github.io/index.html</loc>
-    <lastmod>2025-08-11T04:57:44.704Z</lastmod>
+    <lastmod>2025-08-11T07:47:14.963Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/what_are_we_doing/what_are_we_doing.html</loc>
-    <lastmod>2025-08-11T04:57:44.760Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.023Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/python_review.html</loc>
-    <lastmod>2025-08-11T04:57:44.714Z</lastmod>
+    <lastmod>2025-08-11T07:47:14.974Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/setting_up_python_computing_environment.html</loc>
-    <lastmod>2025-08-11T04:57:53.422Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.663Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/data_types_and_operators.html</loc>
-    <lastmod>2025-08-11T04:57:53.429Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.671Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/conditionals.html</loc>
-    <lastmod>2025-08-11T04:57:53.431Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.673Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/lists_tuples.html</loc>
-    <lastmod>2025-08-11T04:57:53.420Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.661Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/iteration.html</loc>
-    <lastmod>2025-08-11T04:57:53.418Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.659Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/intro_to_functions.html</loc>
-    <lastmod>2025-08-11T04:57:53.427Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.669Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/methods.html</loc>
-    <lastmod>2025-08-11T04:57:53.424Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.667Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/dictionaries.html</loc>
-    <lastmod>2025-08-11T04:57:53.426Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.668Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/packages_and_modules.html</loc>
-    <lastmod>2025-08-11T04:57:53.417Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.658Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/exceptions_and_error_handling.html</loc>
-    <lastmod>2025-08-11T04:57:53.430Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.672Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/file_io.html</loc>
-    <lastmod>2025-08-11T04:57:53.421Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.662Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/python_basics/intro_to_numpy_and_scipy.html</loc>
-    <lastmod>2025-08-11T04:57:53.423Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.665Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/polars/polars.html</loc>
-    <lastmod>2025-08-11T04:57:44.793Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.058Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/polars/intro_to_polars.html</loc>
-    <lastmod>2025-08-11T04:57:53.538Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.029Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/polars/tidy_data.html</loc>
-    <lastmod>2025-08-11T04:57:53.539Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.032Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/polars/polars_for_pandas.html</loc>
-    <lastmod>2025-08-11T04:57:53.541Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.035Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/plotting/plotting.html</loc>
-    <lastmod>2025-08-11T04:57:44.776Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.041Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/plotting/plotting_with_bokeh.html</loc>
-    <lastmod>2025-08-11T04:57:53.494Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.745Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/plotting/iqplot.html</loc>
-    <lastmod>2025-08-11T04:57:53.492Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.743Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/plotting/styling_bokeh.html</loc>
-    <lastmod>2025-08-11T04:57:53.516Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.990Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/plotting/overplotting.html</loc>
-    <lastmod>2025-08-11T04:57:53.514Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.775Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/probability/probability.html</loc>
-    <lastmod>2025-08-11T04:57:44.725Z</lastmod>
+    <lastmod>2025-08-11T07:47:14.990Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/probability/definition_and_interpretation_of_probability.html</loc>
-    <lastmod>2025-08-11T04:57:44.729Z</lastmod>
+    <lastmod>2025-08-11T07:47:14.991Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/probability/probability_distributions.html</loc>
-    <lastmod>2025-08-11T04:57:44.731Z</lastmod>
+    <lastmod>2025-08-11T07:47:14.993Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/sampling/sampling.html</loc>
-    <lastmod>2025-08-11T04:57:44.740Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.002Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/sampling/random_number_generation.html</loc>
-    <lastmod>2025-08-11T04:57:53.476Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.725Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/sampling/rng_with_numpy.html</loc>
-    <lastmod>2025-08-11T04:57:53.473Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.722Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/sampling/luria_delbruck.html</loc>
-    <lastmod>2025-08-11T04:57:53.475Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.724Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/plugin/plugin.html</loc>
-    <lastmod>2025-08-11T04:57:44.733Z</lastmod>
+    <lastmod>2025-08-11T07:47:14.994Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/plugin/point_estimates.html</loc>
-    <lastmod>2025-08-11T04:57:44.734Z</lastmod>
+    <lastmod>2025-08-11T07:47:14.995Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/plugin/bias.html</loc>
-    <lastmod>2025-08-11T04:57:44.733Z</lastmod>
+    <lastmod>2025-08-11T07:47:14.995Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/plugin/confidence_intervals.html</loc>
-    <lastmod>2025-08-11T04:57:44.733Z</lastmod>
+    <lastmod>2025-08-11T07:47:14.995Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/nonparametric/nonparametric_inference.html</loc>
-    <lastmod>2025-08-11T04:57:44.714Z</lastmod>
+    <lastmod>2025-08-11T07:47:14.975Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/nonparametric/intro_bootstrap.html</loc>
-    <lastmod>2025-08-11T04:57:53.437Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.680Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/nonparametric/pairs_bootstrap_correlation.html</loc>
-    <lastmod>2025-08-11T04:57:53.438Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.682Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/nhst/intro_nhst.html</loc>
-    <lastmod>2025-08-11T04:57:44.787Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.051Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/nhst/nhst.html</loc>
-    <lastmod>2025-08-11T04:57:44.783Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.049Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/nhst/opinions_about_nhst.html</loc>
-    <lastmod>2025-08-11T04:57:44.788Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.053Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/nhst/hacker_nhst.html</loc>
-    <lastmod>2025-08-11T04:57:53.535Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.027Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/modeling/why_models.html</loc>
-    <lastmod>2025-08-11T04:57:44.758Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.021Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/modeling/statistical_modeling.html</loc>
-    <lastmod>2025-08-11T04:57:44.756Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.020Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/modeling/building_a_generative_model.html</loc>
-    <lastmod>2025-08-11T04:57:44.758Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.021Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/mle/intro_mle.html</loc>
-    <lastmod>2025-08-11T04:57:49.816Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.216Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/mle/method_of_moments.html</loc>
-    <lastmod>2025-08-11T04:57:49.817Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.217Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/mle/mle.html</loc>
-    <lastmod>2025-08-11T04:57:49.815Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.215Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/mle/numerical_mle.html</loc>
-    <lastmod>2025-08-11T04:57:53.554Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.053Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/mle/mle_confidence_intervals.html</loc>
-    <lastmod>2025-08-11T04:57:53.569Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.075Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/mle/parallel_conf_ints.html</loc>
-    <lastmod>2025-08-11T04:57:53.555Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.056Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/mle/mixture_models.html</loc>
-    <lastmod>2025-08-11T04:57:53.562Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.067Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/variate_covariate/intro_variate_covariate.html</loc>
-    <lastmod>2025-08-11T04:57:44.783Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.049Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/variate_covariate/model_building.html</loc>
-    <lastmod>2025-08-11T04:57:44.780Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.044Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/variate_covariate/mle_for_variate_covariate_models.html</loc>
-    <lastmod>2025-08-11T04:57:44.782Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.047Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/variate_covariate/variate_covariate_implementation.html</loc>
-    <lastmod>2025-08-11T04:57:53.524Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.008Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/model_assessment/intro_model_assessment.html</loc>
-    <lastmod>2025-08-11T04:57:49.804Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.202Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/model_assessment/graphical_model_assessment.html</loc>
-    <lastmod>2025-08-11T04:57:49.805Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.203Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/model_assessment/information_criteria.html</loc>
-    <lastmod>2025-08-11T04:57:49.810Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.208Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/model_assessment/implementation_of_graphical_model_selection.html</loc>
-    <lastmod>2025-08-11T04:57:53.550Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.049Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/model_assessment/predictive_regression.html</loc>
-    <lastmod>2025-08-11T04:57:53.544Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.040Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/model_assessment/aic.html</loc>
-    <lastmod>2025-08-11T04:57:53.546Z</lastmod>
+    <lastmod>2025-08-11T07:47:24.044Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/statistical_watchouts/statistical_watchouts.html</loc>
-    <lastmod>2025-08-11T04:57:44.750Z</lastmod>
+    <lastmod>2025-08-11T07:47:15.013Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/statistical_watchouts/olkin_petkau_zidek.html</loc>
-    <lastmod>2025-08-11T04:57:53.477Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.727Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/statistical_watchouts/nonidentifiable.html</loc>
-    <lastmod>2025-08-11T04:57:53.488Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.739Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/lessons/statistical_watchouts/dancing.html</loc>
-    <lastmod>2025-08-11T04:57:53.482Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.732Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/python/python_exercises.html</loc>
-    <lastmod>2025-08-11T04:57:49.828Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.231Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/python/string_methods.html</loc>
-    <lastmod>2025-08-11T04:57:53.409Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.650Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/python/restriction_sites.html</loc>
-    <lastmod>2025-08-11T04:57:53.408Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.650Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/python/longest_common_substring.html</loc>
-    <lastmod>2025-08-11T04:57:53.409Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.651Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/python/pathogenicity_islands.html</loc>
-    <lastmod>2025-08-11T04:57:53.408Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.650Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/python/rna_validator.html</loc>
-    <lastmod>2025-08-11T04:57:53.409Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.651Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/python/computing_things.html</loc>
-    <lastmod>2025-08-11T04:57:53.410Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.651Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/python/2d_arrays.html</loc>
-    <lastmod>2025-08-11T04:57:53.409Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.650Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/polars/polars_exercises.html</loc>
-    <lastmod>2025-08-11T04:57:49.843Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.253Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/polars/frog_tongue_1.html</loc>
-    <lastmod>2025-08-11T04:57:53.415Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.656Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/polars/frog_tongue_2.html</loc>
-    <lastmod>2025-08-11T04:57:53.414Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.656Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/polars/frog_tongue_3.html</loc>
-    <lastmod>2025-08-11T04:57:53.415Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.657Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/polars/palmer_penguins.html</loc>
-    <lastmod>2025-08-11T04:57:53.414Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.656Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/plotting/viz_exercises.html</loc>
-    <lastmod>2025-08-11T04:57:49.836Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.241Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/plotting/palmer_penguins_plot.html</loc>
-    <lastmod>2025-08-11T04:57:53.411Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.653Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/plotting/mt_ecdf.html</loc>
-    <lastmod>2025-08-11T04:57:53.411Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.652Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/plotting/cool_gal4.html</loc>
-    <lastmod>2025-08-11T04:57:53.411Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.653Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/probability/probability_exercises.html</loc>
-    <lastmod>2025-08-11T04:57:49.825Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.227Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/probability/distribution_stories.html</loc>
-    <lastmod>2025-08-11T04:57:53.407Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.649Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/probability/heavy_tails.html</loc>
-    <lastmod>2025-08-11T04:57:53.408Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.649Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/probability/normal_approx.html</loc>
-    <lastmod>2025-08-11T04:57:53.408Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.650Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/probability/refractory_isi.html</loc>
-    <lastmod>2025-08-11T04:57:53.407Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.649Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/probability/simulate_catastrophe.html</loc>
-    <lastmod>2025-08-11T04:57:53.407Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.649Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/nonparam_hacker_stats/nonparam_hacker_stats.html</loc>
-    <lastmod>2025-08-11T04:57:49.841Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.249Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/nonparam_hacker_stats/nonparametric_catastrophe.html</loc>
-    <lastmod>2025-08-11T04:57:53.412Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.653Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/nonparam_hacker_stats/finches.html</loc>
-    <lastmod>2025-08-11T04:57:53.412Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.653Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/nhst/nhst_exercises.html</loc>
-    <lastmod>2025-08-11T04:57:49.842Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.251Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/nhst/finches_nhst.html</loc>
-    <lastmod>2025-08-11T04:57:53.412Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.654Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/nhst/dance_of_the_p_values.html</loc>
-    <lastmod>2025-08-11T04:57:53.412Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.654Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/parameter_estimation/parameter_estimation.html</loc>
-    <lastmod>2025-08-11T04:57:49.831Z</lastmod>
+    <lastmod>2025-08-11T07:47:20.236Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/parameter_estimation/boolean_data.html</loc>
-    <lastmod>2025-08-11T04:57:53.410Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.652Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/parameter_estimation/heavy_tail_outlier.html</loc>
-    <lastmod>2025-08-11T04:57:53.410Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.652Z</lastmod>
   </url>
   <url>
     <loc>https://huji-stats.github.io/exercises/parameter_estimation/spike_intervals.html</loc>
-    <lastmod>2025-08-11T04:57:53.410Z</lastmod>
+    <lastmod>2025-08-11T07:47:23.651Z</lastmod>
   </url>
 </urlset>
